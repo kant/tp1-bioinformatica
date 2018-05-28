@@ -1,0 +1,482 @@
+LOCUS       NM_000531               1647 bp    mRNA    linear   PRI 07-MAY-2018
+DEFINITION  Homo sapiens ornithine carbamoyltransferase (OTC), mRNA.
+ACCESSION   NM_000531
+VERSION     NM_000531.5
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1647)
+  AUTHORS   Ohnishi M, Higuchi A, Matsumura H, Arakawa Y, Nakamura H, Nirei K,
+            Yamamoto T, Yamagami H, Ogawa M, Gotoda T, Matsuoka S, Nakajima N,
+            Sugitani M, Moriyama M and Murayama H.
+  TITLE     Involvement of Ornithine Carbamoyltransferase in the Progression of
+            Chronic Hepatitis C and Liver Cirrhosis
+  JOURNAL   Int J Med Sci 14 (7), 629-638 (2017)
+   PUBMED   28824294
+  REMARK    GeneRIF: The measurement of serum ornithine carbamoyltransferase
+            concentration may provide a useful marker of disease severity, and
+            thus could be a useful marker for a high risk of hepatocellular
+            carcinoma occurrence.
+            Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1647)
+  AUTHORS   Choy CT, Wong CH and Loong HHF.
+  TITLE     Low expressions of ASS1 and OTC in glioblastoma suggest the
+            potential clinical use of recombinant human arginase (rhArg)
+  JOURNAL   J. Neurooncol. 129 (3), 579-581 (2016)
+   PUBMED   27431689
+  REMARK    GeneRIF: Low expression of OTC is associated with glioblastoma.
+REFERENCE   3  (bases 1 to 1647)
+  AUTHORS   Mohamed S, Hamad MH, Kondkar AA and Abu-Amero KK.
+  TITLE     A novel mutation in ornithine transcarbamylase gene causing mild
+            intermittent hyperammonemia
+  JOURNAL   Saudi Med J 36 (10), 1229-1232 (2015)
+   PUBMED   26446336
+  REMARK    GeneRIF: Sanger sequencing of the ornithine transcarbamylase (OTC)
+            gene revealed a novel hemizygous deletion at the fourth nucleotide
+            of intron 4 (c.386+4delT) in a child with hyperammonemia and his
+            asymptomatic mother.
+REFERENCE   4  (bases 1 to 1647)
+  AUTHORS   Caldovic L, Abdikarim I, Narain S, Tuchman M and Morizono H.
+  TITLE     Genotype-Phenotype Correlations in Ornithine Transcarbamylase
+            Deficiency: A Mutation Update
+  JOURNAL   J Genet Genomics 42 (5), 181-194 (2015)
+   PUBMED   26059767
+  REMARK    GeneRIF: OTC mutation and phenotype in ornithine transcarbamylase
+            deficiency
+            Review article
+REFERENCE   5  (bases 1 to 1647)
+  AUTHORS   Lichter-Konecki,U., Caldovic,L., Morizono,H. and Simpson,K.
+  TITLE     Ornithine Transcarbamylase Deficiency
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Stephens
+            K and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   24006547
+REFERENCE   6  (bases 1 to 1647)
+  AUTHORS   Ah Mew,N., Simpson,K.L., Gropman,A.L., Lanpher,B.C., Chapman,K.A.
+            and Summar,M.L.
+  TITLE     Urea Cycle Disorders Overview
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Stephens
+            K and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301396
+REFERENCE   7  (bases 1 to 1647)
+  AUTHORS   Tuchman M, Holzknecht RA, Gueron AB, Berry SA and Tsai MY.
+  TITLE     Six new mutations in the ornithine transcarbamylase gene detected
+            by single-strand conformational polymorphism
+  JOURNAL   Pediatr. Res. 32 (5), 600-604 (1992)
+   PUBMED   1480464
+REFERENCE   8  (bases 1 to 1647)
+  AUTHORS   Feldmann D, Rozet JM, Pelet A, Hentzen D, Briand P, Hubert P,
+            Largilliere C, Rabier D, Farriaux JP and Munnich A.
+  TITLE     Site specific screening for point mutations in ornithine
+            transcarbamylase deficiency
+  JOURNAL   J. Med. Genet. 29 (7), 471-475 (1992)
+   PUBMED   1353535
+REFERENCE   9  (bases 1 to 1647)
+  AUTHORS   Suess PJ, Tsai MY, Holzknecht RA, Horowitz M and Tuchman M.
+  TITLE     Screening for gene deletions and known mutations in 13 patients
+            with ornithine transcarbamylase deficiency
+  JOURNAL   Biochem. Med. Metab. Biol. 47 (3), 250-259 (1992)
+   PUBMED   1627356
+REFERENCE   10 (bases 1 to 1647)
+  AUTHORS   Dawson SJ and White LA.
+  TITLE     Treatment of Haemophilus aphrophilus endocarditis with
+            ciprofloxacin
+  JOURNAL   J. Infect. 24 (3), 317-320 (1992)
+   PUBMED   1602151
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from BC107153.1, AK292757.1 and
+            AI247721.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Aug 21, 2008 this sequence version replaced NM_000531.4.
+            
+            Summary: This nuclear gene encodes a mitochondrial matrix enzyme.
+            Missense, nonsense, and frameshift mutations in this enzyme lead to
+            ornithine transcarbamylase deficiency, which causes hyperammonemia.
+            Since the gene for this enzyme maps close to that for Duchenne
+            muscular dystrophy, it may play a role in that disease also.
+            [provided by RefSeq, Jul 2008].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: BC107153.1, SRR1660803.257899.1
+                                           [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1968968, SAMEA2142348
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            gene product(s) localized to mito. :: reported by MitoCarta
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-45                BC107153.1         1-45
+            46-1433             AK292757.1         1-1388
+            1434-1647           AI247721.1         4-217               c
+FEATURES             Location/Qualifiers
+     source          1..1647
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="X"
+                     /map="Xp11.4"
+     gene            1..1647
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /note="ornithine carbamoyltransferase"
+                     /db_xref="GeneID:5009"
+                     /db_xref="HGNC:HGNC:8512"
+                     /db_xref="MIM:300461"
+     STS             1..1402
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /db_xref="UniSTS:486728"
+     exon            1..291
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /inference="alignment:Splign:2.1.0"
+     STS             110..737
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /standard_name="GDB:177412"
+                     /db_xref="UniSTS:154893"
+     misc_feature    206..208
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /note="upstream in-frame stop codon"
+     CDS             215..1279
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /EC_number="2.1.3.3"
+                     /note="ornithine transcarbamylase; ornithine
+                     carbamoyltransferase, mitochondrial; OTCase"
+                     /codon_start=1
+                     /product="ornithine carbamoyltransferase, mitochondrial
+                     precursor"
+                     /protein_id="NP_000522.3"
+                     /db_xref="CCDS:CCDS14247.1"
+                     /db_xref="GeneID:5009"
+                     /db_xref="HGNC:HGNC:8512"
+                     /db_xref="MIM:300461"
+                     /translation="MLFNLRILLNNAAFRNGHNFMVRNFRCGQPLQNKVQLKGRDLLT
+                     LKNFTGEEIKYMLWLSADLKFRIKQKGEYLPLLQGKSLGMIFEKRSTRTRLSTETGFA
+                     LLGGHPCFLTTQDIHLGVNESLTDTARVLSSMADAVLARVYKQSDLDTLAKEASIPII
+                     NGLSDLYHPIQILADYLTLQEHYSSLKGLTLSWIGDGNNILHSIMMSAAKFGMHLQAA
+                     TPKGYEPDASVTKLAEQYAKENGTKLLLTNDPLEAAHGGNVLITDTWISMGQEEEKKK
+                     RLQAFQGYQVTMKTAKVAASDWTFLHCLPRKPEEVDDEVFYSPRSLVFPEAENRKWTI
+                     MAVMVSLLTDYSPQLQKPKF"
+     transit_peptide 215..310
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+     mat_peptide     311..1276
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /product="ornithine carbamoyltransferase, mitochondrial"
+     misc_feature    422..424
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine, alternate.
+                     {ECO:0000250|UniProtKB:P11725}; propagated from
+                     UniProtKB/Swiss-Prot (P00480.3); acetylation site"
+     misc_feature    422..424
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-succinyllysine, alternate.
+                     {ECO:0000250|UniProtKB:P11725}; propagated from
+                     UniProtKB/Swiss-Prot (P00480.3); modified site"
+     misc_feature    452..454
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-succinyllysine. {ECO:0000250|UniProtKB:P11725};
+                     propagated from UniProtKB/Swiss-Prot (P00480.3); modified
+                     site"
+     misc_feature    476..478
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine, alternate.
+                     {ECO:0000269|PubMed:19318352}; propagated from
+                     UniProtKB/Swiss-Prot (P00480.3); acetylation site"
+     misc_feature    476..478
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-succinyllysine, alternate.
+                     {ECO:0000250|UniProtKB:P11725}; propagated from
+                     UniProtKB/Swiss-Prot (P00480.3); modified site"
+     misc_feature    482..496
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P00480.3);
+                     Region: Ornithine and carbamoyl phosphate binding"
+     misc_feature    611..613
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:24275569};
+                     propagated from UniProtKB/Swiss-Prot (P00480.3);
+                     phosphorylation site"
+     misc_feature    644..646
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine, alternate.
+                     {ECO:0000250|UniProtKB:P11725}; propagated from
+                     UniProtKB/Swiss-Prot (P00480.3); acetylation site"
+     misc_feature    644..646
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-succinyllysine, alternate.
+                     {ECO:0000250|UniProtKB:P11725}; propagated from
+                     UniProtKB/Swiss-Prot (P00480.3); modified site"
+     misc_feature    716..727
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P00480.3);
+                     Region: Ornithine and carbamoyl phosphate binding"
+     misc_feature    875..877
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine, alternate.
+                     {ECO:0000250|UniProtKB:P11725}; propagated from
+                     UniProtKB/Swiss-Prot (P00480.3); acetylation site"
+     misc_feature    875..877
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-succinyllysine, alternate.
+                     {ECO:0000250|UniProtKB:P11725}; propagated from
+                     UniProtKB/Swiss-Prot (P00480.3); modified site"
+     misc_feature    905..907
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine, alternate.
+                     {ECO:0000250|UniProtKB:P11725}; propagated from
+                     UniProtKB/Swiss-Prot (P00480.3); acetylation site"
+     misc_feature    905..907
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-succinyllysine, alternate.
+                     {ECO:0000250|UniProtKB:P11725}; propagated from
+                     UniProtKB/Swiss-Prot (P00480.3); modified site"
+     misc_feature    926..928
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine, alternate.
+                     {ECO:0000250|UniProtKB:P11725}; propagated from
+                     UniProtKB/Swiss-Prot (P00480.3); acetylation site"
+     misc_feature    926..928
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-succinyllysine, alternate.
+                     {ECO:0000250|UniProtKB:P11725}; propagated from
+                     UniProtKB/Swiss-Prot (P00480.3); modified site"
+     misc_feature    941..943
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine. {ECO:0000250|UniProtKB:P11725};
+                     propagated from UniProtKB/Swiss-Prot (P00480.3);
+                     acetylation site"
+     misc_feature    1001..1015
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P00480.3);
+                     Region: Ornithine binding"
+     misc_feature    1034..1036
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-succinyllysine. {ECO:0000250|UniProtKB:P11725};
+                     propagated from UniProtKB/Swiss-Prot (P00480.3); modified
+                     site"
+     misc_feature    1079..1081
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-succinyllysine. {ECO:0000250|UniProtKB:P11725};
+                     propagated from UniProtKB/Swiss-Prot (P00480.3); modified
+                     site"
+     misc_feature    1088..1090
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine, alternate.
+                     {ECO:0000250|UniProtKB:P11725}; propagated from
+                     UniProtKB/Swiss-Prot (P00480.3); acetylation site"
+     misc_feature    1088..1090
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-succinyllysine, alternate.
+                     {ECO:0000250|UniProtKB:P11725}; propagated from
+                     UniProtKB/Swiss-Prot (P00480.3); modified site"
+     misc_feature    1118..1129
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P00480.3);
+                     Region: Ornithine binding. {ECO:0000250}"
+     misc_feature    1133..1135
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine, alternate.
+                     {ECO:0000250|UniProtKB:P11725}; propagated from
+                     UniProtKB/Swiss-Prot (P00480.3); acetylation site"
+     misc_feature    1133..1135
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-succinyllysine, alternate.
+                     {ECO:0000250|UniProtKB:P11725}; propagated from
+                     UniProtKB/Swiss-Prot (P00480.3); modified site"
+     exon            292..430
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /inference="alignment:Splign:2.1.0"
+     STS             292..404
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /standard_name="OTC"
+                     /db_xref="UniSTS:506556"
+     exon            431..512
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /inference="alignment:Splign:2.1.0"
+     exon            513..600
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /inference="alignment:Splign:2.1.0"
+     STS             600..755
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /standard_name="GDB:177425"
+                     /db_xref="UniSTS:154897"
+     exon            601..754
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /inference="alignment:Splign:2.1.0"
+     STS             615..1306
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /standard_name="GDB:177413"
+                     /db_xref="UniSTS:154894"
+     exon            755..877
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /inference="alignment:Splign:2.1.0"
+     exon            878..931
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /inference="alignment:Splign:2.1.0"
+     exon            932..1081
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1082..1219
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /inference="alignment:Splign:2.1.0"
+     STS             1089..1267
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /standard_name="RH68978"
+                     /db_xref="UniSTS:5263"
+     exon            1220..1647
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /inference="alignment:Splign:2.1.0"
+     STS             1249..1413
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /standard_name="RH102977"
+                     /db_xref="UniSTS:97311"
+     STS             1318..1420
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+                     /standard_name="DXS8327"
+                     /db_xref="UniSTS:56005"
+     regulatory      1622..1627
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+     polyA_site      1647
+                     /gene="OTC"
+                     /gene_synonym="OCTD"
+ORIGIN      
+        1 agcggtggag cttggcataa agttcaaatg ctcctacacc ctgccctgca gtatctctaa
+       61 ccaggggact ttgataagga agctgaaggg tgatattacc tttgctccct cactgcaact
+      121 gaacacattt cttagttttt aggtggcccc cgctggctaa cttgctgtgg agttttcaag
+      181 ggcatagaat cgtcctttac acaattaaaa gaagatgctg tttaatctga ggatcctgtt
+      241 aaacaatgca gcttttagaa atggtcacaa cttcatggtt cgaaattttc ggtgtggaca
+      301 accactacaa aataaagtgc agctgaaggg ccgtgacctt ctcactctaa aaaactttac
+      361 cggagaagaa attaaatata tgctatggct atcagcagat ctgaaattta ggataaaaca
+      421 gaaaggagag tatttgcctt tattgcaagg gaagtcctta ggcatgattt ttgagaaaag
+      481 aagtactcga acaagattgt ctacagaaac aggctttgca cttctgggag gacatccttg
+      541 ttttcttacc acacaagata ttcatttggg tgtgaatgaa agtctcacgg acacggcccg
+      601 tgtattgtct agcatggcag atgcagtatt ggctcgagtg tataaacaat cagatttgga
+      661 caccctggct aaagaagcat ccatcccaat tatcaatggg ctgtcagatt tgtaccatcc
+      721 tatccagatc ctggctgatt acctcacgct ccaggaacac tatagctctc tgaaaggtct
+      781 taccctcagc tggatcgggg atgggaacaa tatcctgcac tccatcatga tgagcgcagc
+      841 gaaattcgga atgcaccttc aggcagctac tccaaagggt tatgagccgg atgctagtgt
+      901 aaccaagttg gcagagcagt atgccaaaga gaatggtacc aagctgttgc tgacaaatga
+      961 tccattggaa gcagcgcatg gaggcaatgt attaattaca gacacttgga taagcatggg
+     1021 acaagaagag gagaagaaaa agcggctcca ggctttccaa ggttaccagg ttacaatgaa
+     1081 gactgctaaa gttgctgcct ctgactggac atttttacac tgcttgccca gaaagccaga
+     1141 agaagtggat gatgaagtct tttattctcc tcgatcacta gtgttcccag aggcagaaaa
+     1201 cagaaagtgg acaatcatgg ctgtcatggt gtccctgctg acagattact cacctcagct
+     1261 ccagaagcct aaattttgat gttgtgttac ttgtcaagaa agaagcaatg ttcttcagta
+     1321 acagaatgag ttggtttatg gggaaaagag aagagaatct aaaaaataaa caaatcccta
+     1381 acacgtggta tgggtgaacc gtatgatatg ctttgccatt gtgaaacttt ccttaagcct
+     1441 ttaatttaag tgctgatgca ctgtaatacg tgcttaactt tgcttaaact ctctaattcc
+     1501 caatttctga gttacattta gatatcatat taattatcat atacatttac ttcaacataa
+     1561 aatactgtgt tcataatgta taatgtctaa gccattaagt gtaatctatg cttattacct
+     1621 aaataaatta tcacccatgc taattta
+//

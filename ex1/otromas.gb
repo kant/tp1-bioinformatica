@@ -1,0 +1,49 @@
+LOCUS       HUMDMDBX                 619 bp    DNA     linear   PRI 07-NOV-1994
+DEFINITION  Human muscular dystrophy gene region.
+ACCESSION   M36673
+VERSION     M36673.1  GI:181584
+KEYWORDS    muscular dystrophy.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 619)
+  AUTHORS   Monaco,A.P., Neve,R.L., Colletti-Feener,C., Bertelson,C.J.,
+            Kurnit,D.M. and Kunkel,L.M.
+  TITLE     Isolation of candidate cDNAs for portions of the Duchenne muscular
+            dystrophy gene
+  JOURNAL   Nature 323 (6089), 646-650 (1986)
+   PUBMED   3773991
+COMMENT     Original source text: Human DNA, clone pERT87-25.
+FEATURES             Location/Qualifiers
+     source          1..619
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /map="Xp21.3-p21.1"
+     gene            179..202
+                     /gene="DMD"
+     misc_feature    179..202
+                     /gene="DMD"
+                     /note="pot. lariat consensus sequence; G00-119-850;
+                     putative"
+     misc_feature    202
+                     /gene="DMD"
+                     /note="pot. 5' splice acceptor sequence; putative"
+     misc_feature    272
+                     /note="pot. 3' splice donor site; putative"
+     misc_feature    291
+                     /note="pot. 3' splice donor site; putative"
+ORIGIN      
+        1 gcaagtcatg aaatggctca tgcttttatt gccattttga tgtttttgat ggcaaaagtg
+       61 ttgagaaaaa gtctttagat tcacgtgata agctgacaga gtgaaacatc ttaaggcttg
+      121 aaagggcaag tagaagttat aattattgtg tagattcaca gtccttgtat tgaattactc
+      181 atctttgctc tcatgctgca ggccatagag cgagaaaaag ctgagaagtt cagaaaactg
+      241 caagatgcca gcagatcagc tcaggccctg gtggaacaga tggtgaatgg taattacacg
+      301 agttgattta gataatcttc ttagggattt gataaacaca taggttcata tttatcagct
+      361 gaattatatc agacaagcac ttgttaaata caaatttaaa ttaaaaggtg tttgtatgtt
+      421 ttttattatt ctttttttaa tgctaaggaa attattagga gaaattcaac tttgagttca
+      481 ttggaagaaa atgggatgtg gtagaatatt ttatcagtct gtagcagaga aataaatttt
+      541 aatgcaaatc tgctagaatt tatccaaata atttaagaaa taaggttaac agaaattgaa
+      601 acattaacag tcaagtata

@@ -1,0 +1,72 @@
+------------------------------------------------
+Hit 0
+26435
+P11532.3 RecName: Full=Dystrophin
+ - Query length: 3685
+ - Number of identities: 29
+ - Length of Overlapping region: 31
+ - % Overlapping: 
+ - Query sequence: LQAIEREKAEKFRKLQDASRSAQALVEQMVN
+ - Subject sequence: VNAIEREKAEKFRKLQDASRSAQALVEQMVN
+ - Bit score: 59.6918
+ - Gaps: 0
+------------------------------------------------
+Hit 1
+390601
+O97592.1 RecName: Full=Dystrophin
+ - Query length: 3680
+ - Number of identities: 29
+ - Length of Overlapping region: 31
+ - % Overlapping: 
+ - Query sequence: LQAIEREKAEKFRKLQDASRSAQALVEQMVN
+ - Subject sequence: VNAIEREKAEKFRKLQDASRSAQALVEQMVN
+ - Bit score: 59.6918
+ - Gaps: 0
+------------------------------------------------
+Hit 2
+287917
+Q5GN48.1 RecName: Full=Dystrophin
+ - Query length: 3674
+ - Number of identities: 29
+ - Length of Overlapping region: 31
+ - % Overlapping: 
+ - Query sequence: LQAIEREKAEKFRKLQDASRSAQALVEQMVN
+ - Subject sequence: VNAIEREKAEKFRKLQDASRSAQALVEQMVN
+ - Bit score: 59.6918
+ - Gaps: 0
+------------------------------------------------
+Hit 3
+5515
+P11530.2 RecName: Full=Dystrophin
+ - Query length: 3677
+ - Number of identities: 28
+ - Length of Overlapping region: 31
+ - % Overlapping: 
+ - Query sequence: LQAIEREKAEKFRKLQDASRSAQALVEQMVN
+ - Subject sequence: VNAIAREKAEKFRKLQDASRSAQALVEQMVN
+ - Bit score: 57.3806
+ - Gaps: 0
+------------------------------------------------
+Hit 4
+20420
+P11531.3 RecName: Full=Dystrophin
+ - Query length: 3678
+ - Number of identities: 27
+ - Length of Overlapping region: 31
+ - % Overlapping: 
+ - Query sequence: LQAIEREKAEKFRKLQDASRSAQALVEQMVN
+ - Subject sequence: VNAIAREKAEKFRKLQDASRSAQALVEQMAN
+ - Bit score: 55.4546
+ - Gaps: 0
+------------------------------------------------
+Hit 5
+466104
+P11533.1 RecName: Full=Dystrophin
+ - Query length: 3660
+ - Number of identities: 25
+ - Length of Overlapping region: 31
+ - % Overlapping: 
+ - Query sequence: LQAIEREKAEKFRKLQDASRSAQALVEQMVN
+ - Subject sequence: VNAIQREKPEKYRKLQDASRSAEALVEQMVN
+ - Bit score: 54.299
+ - Gaps: 0
