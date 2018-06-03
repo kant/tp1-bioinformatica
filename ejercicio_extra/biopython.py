@@ -14,4 +14,4 @@ count = SeqIO.write(sequences, output_handle, "genbank")
 
 output_handle.close()
 input_handle.close()
-print "Coverted %i records" % count
+print "Converted %i records" % count
